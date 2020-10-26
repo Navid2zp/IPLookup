@@ -11,6 +11,17 @@ Flutter source code for IP Lookup app.
 
 **CafeBazaar**: https://cafebazaar.ir/app/studio.arvix.iplookup
 
+## Supported IP Information
+- City
+- Country
+- Continent
+- Location
+- Postal
+- RegisteredCountry
+- RepresentedCountry
+- Subdivisions
+- Traits
+
 
 ## API
 You should add your API key in [`result.dart`](https://github.com/Navid2zp/IPLookup/blob/e5467f2452de5c3d244b38491f2528ceca87932b/ip_lookup/lib/pages/result.dart#L17) file.
